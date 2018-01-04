@@ -4,10 +4,10 @@
 
 ## Instalation
 
-![puxa forte](puxaforte.jpg)
-
 Add `git-puxaforte` to your path.
 
 ## Usage
 
 `git puxaforte`
+
+![puxa forte](puxaforte.jpg)
